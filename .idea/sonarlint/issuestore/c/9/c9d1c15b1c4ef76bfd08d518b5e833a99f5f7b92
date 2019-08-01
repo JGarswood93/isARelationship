@@ -1,0 +1,11 @@
+
+\squid:S2094"BRemove this empty class, write its code or make it an "interface".(ΖΞ“ϊÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(λΰ«…ώÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(λτµςÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΫθΓ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(δΏ²
+1squid:S1220""Move this file to a named package.
